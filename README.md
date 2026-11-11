@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="assets/app-icon/hicolor/256x256/apps/ai.storyteller.lightcraft.png" width="128" height="128" alt="LightCraft icon: an engraved lynx on an amber tile">
+  <img src="assets/app-icon/hicolor/256x256/apps/ai.storyteller.lightcraft.png" width="128" height="128" alt="LightCraft icon: solid Warm Amber tile with LC initials">
 </p>
 
 <h1 align="center">LightCraft</h1>
